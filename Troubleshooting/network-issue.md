@@ -11,4 +11,12 @@ The office network went down, and no one could connect to the internet.
 ## 🛠 Solution  
 1. Restarted the router and modem.  
 2. Secured the Ethernet cable connection.  
-3. Reset the network adapter using:  
+3. Reset the network adapter using: netsh int ip reset
+4. Restart the computer to apply changes.  
+5.  Verified internet access – connection restored.  
+
+## ✅ Outcome  
+Resolved the issue in **10 minutes**, preventing downtime for the office staff.  
+
+---
+
