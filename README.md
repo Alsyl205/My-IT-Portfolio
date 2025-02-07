@@ -45,6 +45,9 @@ I am actively developing my GitHub portfolio, showcasing projects in:
 
 
 📫 Let's Connect!
+
 💼 LinkedIn Profile
-👨‍💻 GitHub Profile
+
+[👨‍💻 GitHub Profile](https://github.com/Alsyl205)
+
 
