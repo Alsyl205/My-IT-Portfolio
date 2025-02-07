@@ -48,6 +48,6 @@ I am actively developing my GitHub portfolio, showcasing projects in:
 
 💼 LinkedIn Profile
 
-[👨‍💻 GitHub Profile](https://github.com/Alsyl205](https://github.com/Alsyl205/My-IT-Portfolio)
+👨‍💻 [GitHub Profile](https://github.com/Alsyl205/My-IT-Portfolio)
 
 
